@@ -1,15 +1,21 @@
-# Elk
-*A nimble Mastodon web client*
-
 <p align="center">
-  <a href="https://viteconf.org" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://elk.zone/logo.svg" alt="Vite logo">
+  <a href="https://elk.zone" target="_blank" rel="noopener noreferrer">
+    <img width="160" height="160" src="https://elk.zone/logo.svg" alt="Elk logo">
   </a>
 </p>
+
+<h1 align="center"/>Elk <sup><em>alpha</em></sup></h1>
+
+<p align="center">
+A nimble Mastodon web client
+</p>
+
 <br/>
 
-# Elk is in early alpha ⚠️ 
-
+<p align="center">
 Elk isn't ready for wide adoption yet. We recommend you to use it if you would like to help us building it.
+</p>
 
-To get involved, join the [Elk discord server](https://chat.elk.zone) and chat with us to learn more about the project.
+<p align="center">
+To get involved, join the <a href="https://chat.elk.zone">Elk discord server</a> and chat with us to learn more about the project.
+</p>
