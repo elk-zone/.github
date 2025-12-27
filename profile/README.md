@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"/>Elk <sup><em>alpha</em></sup></h1>
+<h1 align="center"/>Elk</h1>
 
 <p align="center">
 A nimble Mastodon web client
