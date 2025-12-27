@@ -13,9 +13,5 @@ A nimble Mastodon web client
 <br/>
 
 <p align="center">
-Elk isn't ready for wide adoption yet. We recommend you to use it if you would like to help us building it.
-</p>
-
-<p align="center">
 To get involved, join the <a href="https://chat.elk.zone">Elk discord server</a> and chat with us to learn more about the project.
 </p>
